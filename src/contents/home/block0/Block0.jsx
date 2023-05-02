@@ -1,7 +1,7 @@
-import { Box } from '@mui/system';
+// import { Box } from '@mui/system';
 import React from 'react'
 // import styled from 'styled-components';
-import Card0 from '../../../components/card/card2/Card0'
+// import Card0 from '../../../components/card/card2/Card0'
 import  './style.css'
 
 

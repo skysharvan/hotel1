@@ -18,7 +18,7 @@ export const block8Data = {
         {
             id:4,
             image:'https://img.icons8.com/external-smashingstocks-circular-smashing-stocks/1x/external-airplane-webmobile-applications-smashingstocks-circular-smashing-stocks.png',
-            text:'Safe Travel Protocols & Measures'
+            text:'Safe Treatment Protocols & Measures'
         }
 
     ]

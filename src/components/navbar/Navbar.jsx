@@ -90,10 +90,11 @@ const NavBar2 = styled(Box)(({ theme }) => ({
   position:'sticky',
   top:"0px",
   zIndex:'500',
+  boxShadow: 'rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px',
   
   [theme.breakpoints.down('sm')]: {
     display:'flex',
-    height:'auto',
+    height:'120px',
     width:'100%'  
   },
 
@@ -135,7 +136,7 @@ export default function Navbar() {
 
                           <Box sx={{display:'flex',gap:'5px',alignItems:'center',justifyContent:'center'}}>
                               <MailOutline sx={{color:'black',fontSize:'18px'}} />
-                              <Typography sx={{color:'black'}}>info@makejourneys.com</Typography>
+                              <Typography sx={{color:'black'}}>info@hospital.com</Typography>
                             </Box>
                             
                             <Box sx={{display:'flex',gap:'5px',alignItems:'center'}}>
@@ -156,11 +157,11 @@ export default function Navbar() {
         <NavBar2>
             <Box sx={{width:'100%',display:'flex',justifyContent:{xs:'space-between',sm:'space-between'},padding:{ xs:'0px 40px 0px 15px',sm:'0px 60px',md:'0px 120px',lg:'0px 160px',xl:'0px 200px'}}}>
                 <Box>
-                    <img style={{height:'55px' , width:'200px',}} src='https://makejourneys.com/assets/images/myamazingjourney.png' alt='' />
+                    <img style={{height:'55px' , width:'75px',}} src='https://img.freepik.com/free-icon/medicine_318-923296.jpg?size=626&ext=jpg' alt='' />
                 </Box>
                 <Box sx={{display:'flex',gap:'25px',alignItems:'center',justifyContent:'center'}}>
                      <Link to="/"> <Typography sx={{fontSize:'16px',fontWeight:"500", display:{xs:'none',sm:'none',md:'flex'}}}>HOME</Typography></Link>
-                     <Link to="/travel-blog"><Typography variant='body'  sx={{fontSize:"18px",fontWeight:"500",display:{xs:'none',sm:'none',md:'flex'}}}>TRAVEL BLOG</Typography></Link>
+                     <Link to="/travel-blog"><Typography variant='body'  sx={{fontSize:"18px",fontWeight:"500",display:{xs:'none',sm:'none',md:'flex'}}}>HOSPITAL BLOG</Typography></Link>
 
                       <Box sx={{width:{xs:'0px',sm:"150px"}, height:"50px", }} >
 
@@ -179,7 +180,7 @@ export default function Navbar() {
                          <Drawer anchor="left" open={open} onClick={handleClose} sx={{display:{xs:'block',sm:'block',md:'none',lg:'none'},width:{xs:'0px'}}}>
                               <MenuList>
                                 <Link to="/"><MenuItem>HOME</MenuItem></Link>
-                                <Link to="/travel-blog"><MenuItem>TRAVEL BLOG</MenuItem></Link>
+                                <Link to="/travel-blog"><MenuItem>HOSPITAL BLOG</MenuItem></Link>
                                 <MenuItem>ABOUT US</MenuItem>
                               </MenuList>
                             </Drawer>

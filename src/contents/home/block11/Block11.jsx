@@ -42,7 +42,7 @@ export default function Block11() {
         
         <Box sx={{display:'flex',flexDirection:'column',alignItems:'center',width:'100%',}}>
           <Typography sx={{fontFamily:'Dancing Script',fontSize:{md:'55px',xs:'25px'},color:'#222222',margin:'20px 0px'}}>Get Your Custom Itinerary with a Quote</Typography>
-          <Typography sx={{fontSize:{md:'18px',xs:'16px'},opacity:'0.7'}}>Already got a travel plan? Tell us by sending a quick inquiry below and a travel specialist will be in touch within 24 hours to help you plan your trip, individually</Typography>
+          <Typography sx={{fontSize:{md:'18px',xs:'16px'},opacity:'0.7'}}>Already got a hospital plan? Tell us by sending a quick inquiry below and a hospital specialist will be in touch within 24 hours to help you plan your treatment, individually</Typography>
           <Typography sx={{fontSize:{md:'18px',xs:'16px'},opacity:'0.7'}}> focusing on your tastes and interests. This inquiry is not a commitment for booking.</Typography>
         </Box>
 
@@ -165,7 +165,7 @@ export default function Block11() {
          </Box>
 
          <Box>
-            <h3>Your Trip Ideas: </h3>
+            <h3>Your Treatment Ideas: </h3>
             <textarea style={{width:'100%',padding:'7px',marginTop:'5px',border:'1px solid'}} name="" id="" cols="100" rows="6" placeholder='trip ideas'></textarea>
          </Box>
 

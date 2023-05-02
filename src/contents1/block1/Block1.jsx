@@ -33,10 +33,10 @@ const Block1 = () => {
   return (
     <>
         <Box1>
-          <Image src="https://makejourneys.com/assets/images/banner1.png" alt="" />
+          <Image src="https://img.freepik.com/free-vector/cartoon-hospital-corridor-interior-with-reception-desk-elevator_88138-778.jpg?size=626&ext=jpg" alt="" />
         </Box1>
         <Box2>
-          <Typography sx={{color:'#fff',fontSize:{md:'90px',sm:'60px',xs:'50px'}}}>TRAVEL BLOG</Typography>
+          <Typography sx={{color:'#fff',fontSize:{md:'90px',sm:'60px',xs:'50px'}}}>HOSPITAL BLOG</Typography>
         </Box2>
     </>
   )

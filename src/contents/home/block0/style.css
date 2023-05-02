@@ -1,25 +1,25 @@
 .images{
-    background-image:url('https://makejourneys.com/assets/banner/1656053589278-banner.png'); 
+    background-image:url('https://img.freepik.com/free-photo/team-young-specialist-doctors-standing-corridor-hospital_1303-21202.jpg?size=626&ext=jpg'); 
     background-size: cover;
     background-origin:center;
-    height:500px;
+    height:800px;
     width: 100%;
    animation:showcase-animation 6s infinite alternate ease-in-out;
-    transition:all 5s;
+    transition:all 10s;
 }
 @keyframes showcase-animation{
     0%{
-        background-image:url('https://makejourneys.com/assets/banner/1656053589278-banner.png'); 
+        background-image:url('https://img.freepik.com/free-photo/team-young-specialist-doctors-standing-corridor-hospital_1303-21202.jpg?size=626&ext=jpg'); 
     }
  
     33%{
-        background-image: url('https://makejourneys.com/assets/banner/1656053596177-banner3.png');
+        background-image: url('https://img.freepik.com/free-photo/anesthesiologist-keeping-track-vital-functions-body-during-cardiac-surgery-surgeon-looking-medical-monitor-during-surgery-doctor-checking-monitor-patient-health-status_657921-81.jpg?size=626&ext=jpg');
     }
     66%{
-      background-image: url('https://makejourneys.com/assets/banner/1656053580569-banner1.png');
+      background-image: url('https://img.freepik.com/free-photo/young-male-psysician-with-patient-measuring-blood-pressure_1303-17879.jpg?size=626&ext=jpg');
     }
     100%{
-      background-image: url('https://makejourneys.com/assets/banner/1656053623133-banner2.png');
+      background-image: url('https://img.freepik.com/free-photo/successful-medical-team_329181-9252.jpg?size=626&ext=jpg');
     }
     
 }

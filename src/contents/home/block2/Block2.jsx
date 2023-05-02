@@ -16,19 +16,19 @@ const Block2 = () => {
   return(
     <>
       <Box sx={{background:'#fff',marginBottom:'0px'}}>
-         <Typography sx={{fontSize:{md:'45px',sm:'30px',xs:'25px'},display:'flex',justifyContent:'center',margin:'16px 0px',padding:{xs:'0px 20px',sm:'0px 20px',md:'15px',lg:'0px'}}}>Private Tours & Vacations of a Lifetime with Website Name</Typography>
+         <Typography sx={{fontSize:{md:'45px',sm:'30px',xs:'25px'},display:'flex',justifyContent:'center',margin:'16px 0px',padding:{xs:'0px 20px',sm:'0px 20px',md:'15px',lg:'0px'}}}>Max Super Speciality Hospital</Typography>
          
          <Box sx={{display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center',padding:{xs:'0px 15px',sm:'0px 20px',md:'15px'}}}>
-            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>As an award-winning tour operator, Odynovo has taken clients to 70+ destinations in Asia, the Middle East, Africa, Europe, and South America. Every year, tens of</Typography>
-            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>thousands of discerning travelers work with our travel specialists to customize their dream trips to some of the most fascinating destinations in the world. Over</Typography>
-            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>98% of them rate their tours as excellent. It's easy to see why: they get the experience created uniquely based on their personal needs; they travel without hassle</Typography>
-            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}> as everTyy detail is well looked after; and they return with memories they'll treasure for a lifetime.</Typography>
+            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>A hospital is a health care institution providing patient treatment with specialized health science and auxiliary</Typography>
+            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden</Typography>
+            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>A district hospital typically is the major health care facility in its region, with many beds for intensive care</Typography>
+            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}> medical needs such as psychiatric treatment (see psychiatric hospital) and certain disease categories. </Typography>
          </Box>
 
-         <Typography sx={{fontSize:{md:'45px',sm:'30px',xs:'25px'},display:'flex',justifyContent:'center',margin:'15px 0px',padding:{xs:'0px 15px',sm:'0px 20px',md:'15px'}}}>Where You Can Travel with Us in 2022 & 2023</Typography>
+         <Typography sx={{fontSize:{md:'45px',sm:'30px',xs:'25px'},display:'flex',justifyContent:'center',margin:'15px 0px',padding:{xs:'0px 15px',sm:'0px 20px',md:'15px'}}}>Where You want to admit with our Specialities.</Typography>
          <Box sx={{display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center',padding:{xs:'15px 15px',sm:'0px 20px',md:'15px',lg:'10px',xl:'10px'}}}>
-            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>Browse these popular destinations that have reopened or will reopen their borders soon for international travelers and find inspiration for your next dreamy trip.</Typography>
-            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>You can also contact one of our travel specialists to create a new itinerary uniquely for you and your travel companions. It's easy, quick, and totally hassle-free!</Typography>
+            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>Hospitals are typically funded by public funding, health organisations (for-profit or nonprofit), health insurance</Typography>
+            <Typography sx={{fontSize:{md:'20px',xs:'16px'} }}>Currently, hospitals are largely staffed by professional physicians, surgeons, nurses, and allied health practitioners, whereas in the past</Typography>
          </Box>
       </Box>
     </>

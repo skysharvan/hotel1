@@ -2,7 +2,7 @@ export const pagination ={
      data:[
          {
              id:1,
-             image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+             image:'https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/arnprior-hospital-kevin-dodds.jpg',
              heading:'Discover the Marvels of Our World: The New Seven Wonders',
              location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
              text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -13,7 +13,7 @@ export const pagination ={
          },
          {  
             id:2,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/hospital-wall-theo-luycx.jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -24,7 +24,7 @@ export const pagination ={
         },
         {
             id:3,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/premium-photo/abstract-scientific-medical-interior-blurred-background-blue-light-medical-research-concept-ai-render_88188-2567.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -35,7 +35,7 @@ export const pagination ={
         },
         {
             id:4,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/free-vector/hospital-isometric-illustration_1284-22186.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -46,7 +46,7 @@ export const pagination ={
         },
         {  
             id:5,
-            image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShLFIKxlxYC7MAJyQPBT3M2eAxamkDHuyLgA&usqp=CAU',
+            image:'https://img.freepik.com/free-photo/3d-render-hand-holding-heart-with-pulse-line-beat_107791-17213.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -57,7 +57,7 @@ export const pagination ={
         },
         {
             id:6,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/free-vector/abstract-medical-background-with-life-line_1055-6881.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -68,7 +68,7 @@ export const pagination ={
         },
         {
             id:7,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/premium-photo/interior-reanimation-room-modern-clinic_179755-864.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -79,7 +79,7 @@ export const pagination ={
         },
         {
             id:8,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/free-photo/doctor-helping-patient-during-rehabilitation_23-2150321630.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -90,7 +90,7 @@ export const pagination ={
         },
         {
             id:9,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/premium-photo/indian-asian-female-medical-doctor-hospital-office-with-stethoscope_255667-20404.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -101,7 +101,7 @@ export const pagination ={
         },
         {
             id:10,
-            image:'https://makejourneys.com/assets/images-listing/1675162684154-Seven-Wonders-World.jpg',
+            image:'https://img.freepik.com/free-photo/microbiologist-doctor-taking-blood-sample-tube-from-rack-with-machines-analysis-lab-background_482257-527.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
