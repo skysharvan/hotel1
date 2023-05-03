@@ -10,7 +10,7 @@ export const adidas = [
            category:["Spring Rolls","Thali","sweets"],
            tagline: "Wrogn men solid black jeans",
            id:1,
-          image:"https://img.freepik.com/free-photo/new-clean-luxury-restaurant-european-style-amara-dolce-vita-luxury-hotel-resort-tekirova-kemer-turkey_146671-18744.jpg?size=626&ext=jpg",
+          image:"https://img.freepik.com/premium-vector/vintage-camera-logo-design-template-inspiration-vector-illustration-photography_556641-10.jpg?size=626&ext=jpg",
            rating:"4.3",
        },
 
@@ -25,7 +25,7 @@ export const adidas = [
            category:["Spring Rolls","Thali","sweets"],
            tagline: "Wrogn men solid black jeans",
            id:2,
-     image:"https://img.freepik.com/free-photo/restaurant-interior_1127-3392.jpg?size=626&ext=jpg",
+     image:"https://img.freepik.com/free-vector/3d-empty-room-with-lights_1017-1772.jpg?size=626&ext=jpg",
            rating:"4.3",
        },
        {
@@ -38,7 +38,7 @@ export const adidas = [
         },
            category:["Spring Rolls","Thali","sweets"],
            id:3,
-       image:"https://img.freepik.com/free-vector/earth-globe-with-stethoscope-icons_1308-127925.jpg?size=626&ext=jpg",
+       image:"https://img.freepik.com/premium-vector/creative-studio-photography-logo-design-vector-template_332233-1238.jpg?size=626&ext=jpg",
        tagline: "Wrogn men solid black jeans",
            rating:"4.3",
        },
@@ -52,7 +52,7 @@ export const adidas = [
         },
            category:["Spring Rolls","Thali","sweets"],
            id:4,
-         image: "https://img.freepik.com/free-vector/webinar-template-hotel-accommodation_23-2150274014.jpg?size=626&ext=jpg",
+         image: "https://img.freepik.com/free-vector/celebration-design-with-stage-podium-neon-light-award-ceremony-shiny-red-background_1314-3191.jpg?size=626&ext=jpg",
          tagline: "Wrogn men solid black jeans",
            rating:"4.3",
        },
@@ -81,7 +81,7 @@ export const adidas = [
            category:["Spring Rolls","RasGulla","sweets"],
            tagline: "Wrogn men solid black jeans",
            id:6,
-     image:"https://img.freepik.com/premium-photo/luxury-bedroom-suite-with-working-table-twin-bed_105762-1911.jpg?size=626&ext=jpg",
+     image:"https://img.freepik.com/free-vector/singer-recording-studio_33099-1702.jpg?size=626&ext=jpg",
 
            rating:"4.3",
        },
@@ -97,7 +97,7 @@ export const adidas = [
 
            tagline: "Wrogn men solid black jeans",
            id:7,
-          image:"https://img.freepik.com/premium-photo/young-woman-with-handbag-suitcase-elegant-suit-walks-hotel-corridor-her-room_109285-752.jpg?size=626&ext=jpg",
+          image:"https://img.freepik.com/free-vector/photo-studio-banner-with-man-holding-camera_107791-13935.jpg?size=626&ext=jpg",
            rating:"4.3",
        },
 

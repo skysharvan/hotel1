@@ -6,6 +6,7 @@ import { styled } from '@mui/styles';
 import {  ChevronLeftOutlined, ChevronRightOutlined, } from '@mui/icons-material';
 import { Box } from '@mui/material';
 import SliderItem from './sliderItem/SliderItem';
+import   '../slider3/sliderItem/BigSlider.css'
 
 
 const SliderContainer = styled('div')({

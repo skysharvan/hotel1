@@ -33,13 +33,13 @@ const Block1 = () => {
   return (
     <>
         <Box1>
-          <Image src="https://img.freepik.com/free-photo/pool-with-hammock-area_1203-205.jpg?w=996&t=st=1683052287~exp=1683052887~hmac=4ab656777e4316a0b14b65d39967e0213e7bbee0ab8bef4e80cab0599df037e4" alt="hotel" />
+          <Image src="https://img.freepik.com/free-vector/clapper-board-with-realistic-film-strip-background_1017-38232.jpg?size=626&ext=jpg" alt="hotel" />
         </Box1>
         <Box2>
-          <Typography sx={{color:'#fff',fontSize:{md:'90px',sm:'60px',xs:'50px'}}}>HOTEL BLOG</Typography>
+          <Typography sx={{color:'#fff',fontSize:{md:'90px',sm:'60px',xs:'50px'}}}>STDIO BLOG</Typography>
         </Box2>
     </>
   )
 }
 
-export default Block1
+export default Block1;

@@ -2,7 +2,7 @@ export const pagination ={
      data:[
          {
              id:1,
-             image:'https://img.freepik.com/free-photo/restaurant-hall-with-red-brick-walls-wooden-tables-pipes-ceiling_140725-8504.jpg?size=626&ext=jpg',
+             image:'https://img.freepik.com/free-vector/clean-empty-studio-room_1017-2022.jpg?size=626&ext=jpg',
              heading:'Discover the Marvels of Our World: The New Seven Wonders',
              location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
              text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -13,7 +13,7 @@ export const pagination ={
          },
          {  
             id:2,
-            image:'https://img.freepik.com/free-photo/hammocks-with-palm-trees_1203-201.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/realistic-blue-news-studio-interior_1284-9410.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -24,7 +24,7 @@ export const pagination ={
         },
         {
             id:3,
-            image:'https://img.freepik.com/free-photo/landscape-view-leisure-relaxation-summer_1203-4898.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/realistic-news-studio-background_23-2149982947.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -35,7 +35,7 @@ export const pagination ={
         },
         {
             id:4,
-            image:'https://img.freepik.com/free-photo/young-beauty-blond-woman-having-breakfast-bed-early-morning_23-2148033303.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/spotlights-realistic-composition-with-photo-shooting-studio-environment-chroma-key-cyclorama-surrounded-by-professional-spot-lights_1284-31592.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -46,7 +46,7 @@ export const pagination ={
         },
         {  
             id:5,
-            image:'https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-generative-ai-illustration_1258-151616.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/realistic-green-screen-studio-interior_1284-9409.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -57,7 +57,7 @@ export const pagination ={
         },
         {
             id:6,
-            image:'https://img.freepik.com/premium-photo/luxury-interior-exterior-design-pool-villa-with-livingroom_41487-69.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/talk-show-shooting-tv-studio-isometric-illustration_1284-27146.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -68,7 +68,7 @@ export const pagination ={
         },
         {
             id:7,
-            image:'https://img.freepik.com/free-photo/exotic-lunch-hotel-outdoor-shot-table-with-fruits-swimming-pool_197531-20911.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/talk-show-studio-interior_1284-9411.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -79,7 +79,7 @@ export const pagination ={
         },
         {
             id:8,
-            image:'https://img.freepik.com/premium-photo/interior-modern-bedroom_123088-12.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/hand-drawn-news-studio-background_23-2149990293.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -90,7 +90,7 @@ export const pagination ={
         },
         {
             id:9,
-            image:'https://img.freepik.com/free-photo/swimming-pool-with-sun-beds-morning-mediterranean-summer-resort-hotel-turkey-bodrum_627829-7164.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/hand-drawn-news-studio-background_23-2149944781.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -101,7 +101,7 @@ export const pagination ={
         },
         {
             id:10,
-            image:'https://img.freepik.com/premium-photo/outdoor-swimming-pool-with-counter-bar-pool-terrace_41487-697.jpg?w=996',
+            image:'https://img.freepik.com/free-vector/hand-drawn-news-studio-background_23-2149922485.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',

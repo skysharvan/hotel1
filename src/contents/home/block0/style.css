@@ -1,25 +1,25 @@
 .images{
-    background-image:url('https://img.freepik.com/free-photo/umbrella-chair-around-swimming-pool_1203-2410.jpg?size=626&ext=jpg'); 
+    background-image:url('https://img.freepik.com/free-vector/television-studio-with-camera-lights-table-newscaster-couch-interview-recording-tv-program-show_33099-1614.jpg?size=626&ext=jpg'); 
     background-size: cover;
     background-origin:center;
-    height:700px;
+    height:600px;
     width: 100%;
    animation:showcase-animation 6s infinite alternate ease-in-out;
     transition:all 10s;
 }
 @keyframes showcase-animation{
     0%{
-        background-image:url('https://img.freepik.com/free-photo/umbrella-chair-around-swimming-pool_1203-2410.jpg?size=626&ext=jpg'); 
+        background-image:url('https://img.freepik.com/free-vector/television-studio-with-camera-lights-table-newscaster-couch-interview-recording-tv-program-show_33099-1614.jpg?size=626&ext=jpg'); 
     }
  
     33%{
-        background-image: url('https://img.freepik.com/free-photo/luxury-classic-modern-bedroom-suite-hotel_105762-1787.jpg?size=626&ext=jpg');
+        background-image: url('https://img.freepik.com/free-vector/cartoon-manicure-salon-interior-design_107791-19184.jpg?size=626&ext=jpg');
     }
     66%{
-      background-image: url('https://img.freepik.com/free-photo/light-garden-luxury-pool-nature_1203-4908.jpg?size=626&ext=jpg');
+      background-image: url('https://img.freepik.com/free-vector/music-studio-control-room-singer-booth_107791-1637.jpg?size=626&ext=jpg');
     }
     100%{
-      background-image: url('https://img.freepik.com/free-photo/leisure-beautiful-health-garden-landscape_1203-4856.jpg?size=626&ext=jpg');
+      background-image: url('https://img.freepik.com/free-vector/talk-show-studio-interior_1284-9411.jpg?size=626&ext=jpg');
     }
     
 }
