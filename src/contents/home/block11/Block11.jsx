@@ -42,8 +42,8 @@ export default function Block11() {
         
         <Box sx={{display:'flex',flexDirection:'column',alignItems:'center',width:'100%',}}>
           <Typography sx={{fontFamily:'Dancing Script',fontSize:{md:'55px',xs:'25px'},color:'#222222',margin:'20px 0px'}}>Get Your Custom Itinerary with a Quote</Typography>
-          <Typography sx={{fontSize:{md:'18px',xs:'16px'},opacity:'0.7'}}>Already got a hospital plan? Tell us by sending a quick inquiry below and a hospital specialist will be in touch within 24 hours to help you plan your treatment, individually</Typography>
-          <Typography sx={{fontSize:{md:'18px',xs:'16px'},opacity:'0.7'}}> focusing on your tastes and interests. This inquiry is not a commitment for booking.</Typography>
+          <Typography sx={{fontSize:{md:'18px',xs:'16px'},opacity:'0.7'}}>Already got a hotel plan? Tell us by sending a quick inquiry below and a hotel specialist will be in touch within 24 hours to help you plan your treatment, individually</Typography>
+          <Typography sx={{fontSize:{md:'18px',xs:'16px'},opacity:'0.7'}}> focusing on your tastes and interests. This inquiry is not a commitment for booking. our facilities are awsome and great for your choice,injoyfull</Typography>
         </Box>
 
         <Box sx={{display:'flex',width:{xs:'100%',sm:'100%',md:'100%', lg:'100%'}, flexDirection:{xs:'column',sm:'column',md:'row'} ,margin:'10px 0px'}}>

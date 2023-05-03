@@ -22,7 +22,7 @@ export default function Block8({block8Data}) {
                   </Card>  
                 ))}
         </Box>
-        <Button color='error' variant='contained' sx={{margin:{xs:'10px 0px',sm:'10px 0px',md:'0px 0px'},padding:'15px'}}>Start your treatment Now</Button>
+        <Button color='error' variant='contained' sx={{margin:{xs:'10px 0px',sm:'10px 0px',md:'0px 0px'},padding:'10px'}}>Start Now</Button>
     </Box>
   )
 }

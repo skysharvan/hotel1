@@ -2,7 +2,7 @@ export const pagination ={
      data:[
          {
              id:1,
-             image:'https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/arnprior-hospital-kevin-dodds.jpg',
+             image:'https://img.freepik.com/free-photo/restaurant-hall-with-red-brick-walls-wooden-tables-pipes-ceiling_140725-8504.jpg?size=626&ext=jpg',
              heading:'Discover the Marvels of Our World: The New Seven Wonders',
              location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
              text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -13,7 +13,7 @@ export const pagination ={
          },
          {  
             id:2,
-            image:'https://render.fineartamerica.com/images/images-profile-flow/400/images/artworkimages/mediumlarge/2/hospital-wall-theo-luycx.jpg',
+            image:'https://img.freepik.com/free-photo/hammocks-with-palm-trees_1203-201.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -24,7 +24,7 @@ export const pagination ={
         },
         {
             id:3,
-            image:'https://img.freepik.com/premium-photo/abstract-scientific-medical-interior-blurred-background-blue-light-medical-research-concept-ai-render_88188-2567.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/landscape-view-leisure-relaxation-summer_1203-4898.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -35,7 +35,7 @@ export const pagination ={
         },
         {
             id:4,
-            image:'https://img.freepik.com/free-vector/hospital-isometric-illustration_1284-22186.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/young-beauty-blond-woman-having-breakfast-bed-early-morning_23-2148033303.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -46,7 +46,7 @@ export const pagination ={
         },
         {  
             id:5,
-            image:'https://img.freepik.com/free-photo/3d-render-hand-holding-heart-with-pulse-line-beat_107791-17213.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/luxury-pool-villa-spectacular-contemporary-design-digital-art-real-estate-home-house-property-generative-ai-illustration_1258-151616.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -57,7 +57,7 @@ export const pagination ={
         },
         {
             id:6,
-            image:'https://img.freepik.com/free-vector/abstract-medical-background-with-life-line_1055-6881.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-photo/luxury-interior-exterior-design-pool-villa-with-livingroom_41487-69.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -68,7 +68,7 @@ export const pagination ={
         },
         {
             id:7,
-            image:'https://img.freepik.com/premium-photo/interior-reanimation-room-modern-clinic_179755-864.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/exotic-lunch-hotel-outdoor-shot-table-with-fruits-swimming-pool_197531-20911.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -79,7 +79,7 @@ export const pagination ={
         },
         {
             id:8,
-            image:'https://img.freepik.com/free-photo/doctor-helping-patient-during-rehabilitation_23-2150321630.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-photo/interior-modern-bedroom_123088-12.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -90,7 +90,7 @@ export const pagination ={
         },
         {
             id:9,
-            image:'https://img.freepik.com/premium-photo/indian-asian-female-medical-doctor-hospital-office-with-stethoscope_255667-20404.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/swimming-pool-with-sun-beds-morning-mediterranean-summer-resort-hotel-turkey-bodrum_627829-7164.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -101,7 +101,7 @@ export const pagination ={
         },
         {
             id:10,
-            image:'https://img.freepik.com/free-photo/microbiologist-doctor-taking-blood-sample-tube-from-rack-with-machines-analysis-lab-background_482257-527.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-photo/outdoor-swimming-pool-with-counter-bar-pool-terrace_41487-697.jpg?w=996',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',

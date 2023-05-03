@@ -2,27 +2,27 @@ export const block2Data = {
     data:[
         {
             id:1,
-            image:'https://img.freepik.com/free-vector/paramedic-aid-web-banner_1284-54807.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/modern-luxury-bedroom-suite-bathroom_105762-1791.jpg?size=626&ext=jpg'
         },
         {
             id:2,
-            image:'https://img.freepik.com/free-photo/nobody-waiting-room-with-front-desk-reception-wall-screen-tv-with-promotional-offer-private-practice-hopital-waiting-area-patients-with-doctor-appointments-modern-healthcare-clinic_482257-46743.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/cozy-studio-apartment-with-bedroom-living-space_1262-12323.jpg?size=626&ext=jpg'
         },
         {
             id:3,
-            image:'https://img.freepik.com/premium-vector/hospital-building-isolated-modern-medical-clinic-center-clipart_101884-663.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/dining-area-comfortable-studio-flat-hotel-room_1262-12324.jpg?size=626&ext=jpg'
         },
         {
             id:4,
-            image:'https://img.freepik.com/free-vector/hospital-wheelchair-concept-illustration_114360-8211.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/scenic-view-sandy-beach-beach-with-sun-beds-umbrellas-open-against-sea-mountains-hotel-resort-tekirova-kemer-turkey_146671-18876.jpg?size=626&ext=jpg'
         },
         {
             id:5,
-            image:'https://img.freepik.com/free-photo/medical-staff-doctors-concept-young-smiling-female-doctor-healthcare-worker-white-coat-st_1258-128859.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/some-delicious-meal-bed-bedroom-side-view_176474-3911.jpg?size=626&ext=jpg'
         },
         {
             id:6,
-            image:'https://img.freepik.com/free-psd/medical-aid-banner-page-template_23-2148969688.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/outdoor-patio-with-table-chair_74190-2452.jpg?size=626&ext=jpg'
         },
     ]
 }

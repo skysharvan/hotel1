@@ -10,7 +10,7 @@ export const adidas = [
            category:["Spring Rolls","Thali","sweets"],
            tagline: "Wrogn men solid black jeans",
            id:1,
-          image:"https://img.freepik.com/free-vector/medical-care_24877-49075.jpg?size=626&ext=jpg",
+          image:"https://img.freepik.com/free-photo/new-clean-luxury-restaurant-european-style-amara-dolce-vita-luxury-hotel-resort-tekirova-kemer-turkey_146671-18744.jpg?size=626&ext=jpg",
            rating:"4.3",
        },
 
@@ -25,7 +25,7 @@ export const adidas = [
            category:["Spring Rolls","Thali","sweets"],
            tagline: "Wrogn men solid black jeans",
            id:2,
-     image:"https://img.freepik.com/premium-vector/hospital-facade-street-view-flat-style-ambulance-car-entrance_1268-11787.jpg?size=626&ext=jpg",
+     image:"https://img.freepik.com/free-photo/restaurant-interior_1127-3392.jpg?size=626&ext=jpg",
            rating:"4.3",
        },
        {
@@ -52,7 +52,7 @@ export const adidas = [
         },
            category:["Spring Rolls","Thali","sweets"],
            id:4,
-         image: "https://img.freepik.com/free-photo/doctor-helping-patient-during-rehabilitation_23-2150321634.jpg?size=626&ext=jpg",
+         image: "https://img.freepik.com/free-vector/webinar-template-hotel-accommodation_23-2150274014.jpg?size=626&ext=jpg",
          tagline: "Wrogn men solid black jeans",
            rating:"4.3",
        },
@@ -66,7 +66,7 @@ export const adidas = [
         },
            category:["Spring Rolls","Thali","sweets"],
            id:5,
-     image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKAHsSFh9RkL2X4mRec3Zquk9QDUmC5UpkQA&usqp=CAU",
+     image:"https://img.freepik.com/free-photo/banquet-table-with-snacks_144627-18361.jpg?size=626&ext=jpg",
      tagline: "Wrogn men solid black jeans",
            rating:"4.3",
        },
@@ -81,7 +81,7 @@ export const adidas = [
            category:["Spring Rolls","RasGulla","sweets"],
            tagline: "Wrogn men solid black jeans",
            id:6,
-     image:"https://img.freepik.com/free-photo/empty-modern-medical-office-having-disease-documents-table-equipped-with-contemporary-furniture-hospital-workplace-with-nobody-it-ready-sickness-consultation-medicine-support_482257-35871.jpg?size=626&ext=jpg",
+     image:"https://img.freepik.com/premium-photo/luxury-bedroom-suite-with-working-table-twin-bed_105762-1911.jpg?size=626&ext=jpg",
 
            rating:"4.3",
        },
@@ -97,7 +97,7 @@ export const adidas = [
 
            tagline: "Wrogn men solid black jeans",
            id:7,
-          image:"https://img.freepik.com/free-photo/asian-young-caregiver-caring-her-elderly-patient-senior-daycare-handicap-patient-wheelchair-hospital-talking-friendly-nurse-looking-cheerful-nurse-wheeling-senior-patient_609648-3121.jpg?size=626&ext=jpg",
+          image:"https://img.freepik.com/premium-photo/young-woman-with-handbag-suitcase-elegant-suit-walks-hotel-corridor-her-room_109285-752.jpg?size=626&ext=jpg",
            rating:"4.3",
        },
 

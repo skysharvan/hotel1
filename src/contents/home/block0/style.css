@@ -1,25 +1,25 @@
 .images{
-    background-image:url('https://img.freepik.com/free-photo/team-young-specialist-doctors-standing-corridor-hospital_1303-21202.jpg?size=626&ext=jpg'); 
+    background-image:url('https://img.freepik.com/free-photo/umbrella-chair-around-swimming-pool_1203-2410.jpg?size=626&ext=jpg'); 
     background-size: cover;
     background-origin:center;
-    height:800px;
+    height:700px;
     width: 100%;
    animation:showcase-animation 6s infinite alternate ease-in-out;
     transition:all 10s;
 }
 @keyframes showcase-animation{
     0%{
-        background-image:url('https://img.freepik.com/free-photo/team-young-specialist-doctors-standing-corridor-hospital_1303-21202.jpg?size=626&ext=jpg'); 
+        background-image:url('https://img.freepik.com/free-photo/umbrella-chair-around-swimming-pool_1203-2410.jpg?size=626&ext=jpg'); 
     }
  
     33%{
-        background-image: url('https://img.freepik.com/free-photo/anesthesiologist-keeping-track-vital-functions-body-during-cardiac-surgery-surgeon-looking-medical-monitor-during-surgery-doctor-checking-monitor-patient-health-status_657921-81.jpg?size=626&ext=jpg');
+        background-image: url('https://img.freepik.com/free-photo/luxury-classic-modern-bedroom-suite-hotel_105762-1787.jpg?size=626&ext=jpg');
     }
     66%{
-      background-image: url('https://img.freepik.com/free-photo/young-male-psysician-with-patient-measuring-blood-pressure_1303-17879.jpg?size=626&ext=jpg');
+      background-image: url('https://img.freepik.com/free-photo/light-garden-luxury-pool-nature_1203-4908.jpg?size=626&ext=jpg');
     }
     100%{
-      background-image: url('https://img.freepik.com/free-photo/successful-medical-team_329181-9252.jpg?size=626&ext=jpg');
+      background-image: url('https://img.freepik.com/free-photo/leisure-beautiful-health-garden-landscape_1203-4856.jpg?size=626&ext=jpg');
     }
     
 }
