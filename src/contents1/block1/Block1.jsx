@@ -33,10 +33,11 @@ const Block1 = () => {
   return (
     <>
         <Box1>
-          <Image src="https://img.freepik.com/free-vector/clapper-board-with-realistic-film-strip-background_1017-38232.jpg?size=626&ext=jpg" alt="hotel" />
+          <Image src="https://img.freepik.com/premium-vector/hands-with-smart-phone-taxi-application-taxi-service-yellow-taxi-cab-city-silhouette-with-skyscrapers-tower-background-vector-illustration_610956-855.jpg?size=626&ext=jpg" alt="Taxi" />
+      
         </Box1>
         <Box2>
-          <Typography sx={{color:'#fff',fontSize:{md:'90px',sm:'60px',xs:'50px'}}}>STDIO BLOG</Typography>
+          <Typography sx={{color:'#fff',fontSize:{md:'90px',sm:'60px',xs:'50px'}}}>TAXI BLOG</Typography>
         </Box2>
     </>
   )

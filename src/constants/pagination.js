@@ -2,7 +2,7 @@ export const pagination ={
      data:[
          {
              id:1,
-             image:'https://img.freepik.com/free-vector/clean-empty-studio-room_1017-2022.jpg?size=626&ext=jpg',
+             image:'https://img.freepik.com/premium-vector/taxi-app-illustrated_23-2148506376.jpg?size=626&ext=jpg',
              heading:'Discover the Marvels of Our World: The New Seven Wonders',
              location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
              text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -13,7 +13,7 @@ export const pagination ={
          },
          {  
             id:2,
-            image:'https://img.freepik.com/free-vector/realistic-blue-news-studio-interior_1284-9410.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/street-night-with-traffic_73683-2253.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -24,7 +24,7 @@ export const pagination ={
         },
         {
             id:3,
-            image:'https://img.freepik.com/free-vector/realistic-news-studio-background_23-2149982947.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/close-up-shot-taxi-sign-warm-colours-sunset-with-bokeh-lights-background_181624-54985.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -35,7 +35,7 @@ export const pagination ={
         },
         {
             id:4,
-            image:'https://img.freepik.com/free-vector/spotlights-realistic-composition-with-photo-shooting-studio-environment-chroma-key-cyclorama-surrounded-by-professional-spot-lights_1284-31592.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/smiley-businesswoman-driving-her-car-looking-side-mirror_23-2148767008.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -46,7 +46,7 @@ export const pagination ={
         },
         {  
             id:5,
-            image:'https://img.freepik.com/free-vector/realistic-green-screen-studio-interior_1284-9409.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/young-tourists-with-backpacks-standing-near-road-hitchhiking-isolated-flat_74855-13747.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -57,7 +57,7 @@ export const pagination ={
         },
         {
             id:6,
-            image:'https://img.freepik.com/free-vector/talk-show-shooting-tv-studio-isometric-illustration_1284-27146.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-vector/taxi-app-concept-with-mobile-phone-city_23-2148503823.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -68,7 +68,7 @@ export const pagination ={
         },
         {
             id:7,
-            image:'https://img.freepik.com/free-vector/talk-show-studio-interior_1284-9411.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/premium-photo/businesswoman-sitting-drivers-seat-her-car-using-phone_255667-32.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -79,7 +79,7 @@ export const pagination ={
         },
         {
             id:8,
-            image:'https://img.freepik.com/free-vector/hand-drawn-news-studio-background_23-2149990293.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/taxi-service-infographics_1284-11015.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -90,7 +90,7 @@ export const pagination ={
         },
         {
             id:9,
-            image:'https://img.freepik.com/free-vector/hand-drawn-news-studio-background_23-2149944781.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-photo/black-yellow-sign-taxi-night-placed-top-car_181624-17433.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',
@@ -101,7 +101,7 @@ export const pagination ={
         },
         {
             id:10,
-            image:'https://img.freepik.com/free-vector/hand-drawn-news-studio-background_23-2149922485.jpg?size=626&ext=jpg',
+            image:'https://img.freepik.com/free-vector/gps-navigation-set-icons_24877-51540.jpg?size=626&ext=jpg',
             heading:'Discover the Marvels of Our World: The New Seven Wonders',
             location:'https://cdn-icons-png.flaticon.com/512/9088/9088666.png',
             text1:'Traveling and exploring the world has always been a passion for many, and what better way to do so than to',

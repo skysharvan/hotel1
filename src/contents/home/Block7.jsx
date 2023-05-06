@@ -9,10 +9,10 @@ import { Box } from "@mui/system";
 
             <Typography sx={{fontFamily: 'Dancing Script',fontSize:{xs:'25px',sm:'30px',md:'55px',lg:'60px'},color:'#222222',marginBottom:{xs:'5px',sm:'',md:'', lg:'40px'},padding:{md:'10px',xs:'0px'}}}> What Our Clients Say About Us </Typography>
             <Box sx={{padding:'15px',opacity:'0.7'}}>
-                <Typography sx={{fontSize:{md:'20px',xs:'16px'}}}>We’re a stdio operator in the industry, meanwhile, we are independent stdio like you too. We deeply know and care about your concerns regarding stdio</Typography>
-                <Typography sx={{fontSize:{md:'20px',xs:'16px'}}}> abroad as there still some uncertainty outside the world. To provide you with updated news and professional advice, our stdio specialists monitor and collect first-</Typography>
-                <Typography sx={{fontSize:{md:'20px',xs:'16px'}}}>hand information about all of our destinations every day. And, we are now releasing our Book with Confidence and stdio with Confidence programs that we</Typography>
-                <Typography sx={{fontSize:{md:'20px',xs:'16px'}}}> promise your room will be in safe hands.</Typography>
+                <Typography sx={{fontSize:{md:'20px',xs:'16px'}}}>We’re a Taxi operator in the industry, meanwhile, we are independent Taxi like you too. We deeply know and care about your concerns regarding Taxi</Typography>
+                <Typography sx={{fontSize:{md:'20px',xs:'16px'}}}> abroad as there still some uncertainty outside the world. To provide you with updated news and professional advice, our Taxi specialists monitor and collect first-</Typography>
+                <Typography sx={{fontSize:{md:'20px',xs:'16px'}}}>hand information about all of our destinations every day. And, we are now releasing our Book with Confidence and Taxi with Confidence programs that we</Typography>
+                <Typography sx={{fontSize:{md:'20px',xs:'16px'}}}> promise your Taxi will be in safe hands.</Typography>
             </Box>
 
 
@@ -29,7 +29,7 @@ import { Box } from "@mui/system";
                 <Typography sx={{fontSize:{md:'18px',xs:'16px'}}}>if you looking on your lowest then check our hospital. They will surely help to find your next budget beds</Typography>
                 <Typography sx={{fontSize:{md:'18px',xs:'16px'}}}>Thanks our team to make my room very cost effectively</Typography>
                 <Typography sx={{color:'#FC6E74',marginTop:'20px',fontSize:{md:'18px',xs:'16px'}}}>Derrik</Typography>
-                <Typography sx={{fontSize:{md:'18px',xs:'16px'}}}>senior photographer </Typography>
+                <Typography sx={{fontSize:{md:'18px',xs:'16px'}}}>senior driver </Typography>
               </Box >
               <Box sx={{display:'flex',justifyContent:'end',marginTop:{xs:'-40px',sm:'-20px',md:'-20px',lg:'-50px'}}}>
                   <img style={{height:'55px',width:'55px',}} src="https://cdn-icons-png.flaticon.com/512/7911/7911122.png" alt="" />

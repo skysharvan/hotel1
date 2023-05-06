@@ -136,7 +136,7 @@ export default function Navbar() {
 
                           <Box sx={{display:'flex',gap:'5px',alignItems:'center',justifyContent:'center'}}>
                               <MailOutline sx={{color:'black',fontSize:'18px'}} />
-                              <Typography sx={{color:'black'}}>info@hotel.com</Typography>
+                              <Typography sx={{color:'black'}}>info@taxi.com</Typography>
                             </Box>
                             
                             <Box sx={{display:'flex',gap:'5px',alignItems:'center'}}>
@@ -155,13 +155,13 @@ export default function Navbar() {
               </Box>
         </NavBar1>
         <NavBar2>
-            <Box sx={{width:'100%',display:'flex',justifyContent:{xs:'space-between',sm:'space-between'},padding:{ xs:'0px 40px 0px 15px',sm:'0px 60px',md:'0px 120px',lg:'0px 160px',xl:'0px 200px'}}}>
+            <Box sx={{width:'100%',display:'flex',justifyContent:{xs:'space-between',sm:'space-between'},alignItems:'center',padding:{ xs:'0px 40px 0px 15px',sm:'0px 60px',md:'0px 120px',lg:'0px 160px',xl:'0px 200px'}}}>
                 <Box>
-                    <img style={{height:'55px' , width:'75px',}} src='https://img.freepik.com/free-vector/5-star-logo-template-design_23-2150337881.jpg?size=626&ext=jpg' alt='card' />
+                    <img style={{height:'60px' , width:'100px',cursor:'pointer'}} src='https://img.freepik.com/premium-vector/taxi-service-great-design-any-purposes-app-logo-concept-brochure-design-template-card-banner_123447-1568.jpg?size=626&ext=jpg' alt='card' />
                 </Box>
                 <Box sx={{display:'flex',gap:'25px',alignItems:'center',justifyContent:'center'}}>
                      <Link to="/"> <Typography sx={{fontSize:'16px',fontWeight:"500", display:{xs:'none',sm:'none',md:'flex'}}}>HOME</Typography></Link>
-                     <Link to="/travel-blog"><Typography variant='body'  sx={{fontSize:"18px",fontWeight:"500",display:{xs:'none',sm:'none',md:'flex'}}}>STDIO BLOG</Typography></Link>
+                     <Link to="/travel-blog"><Typography variant='body'  sx={{fontSize:"18px",fontWeight:"500",display:{xs:'none',sm:'none',md:'flex'}}}>TAXI BLOG</Typography></Link>
 
                       <Box sx={{width:{xs:'0px',sm:"150px"}, height:"50px", }} >
 
@@ -180,7 +180,7 @@ export default function Navbar() {
                          <Drawer anchor="left" open={open} onClick={handleClose} sx={{display:{xs:'block',sm:'block',md:'none',lg:'none'},width:{xs:'0px'}}}>
                               <MenuList>
                                 <Link to="/"><MenuItem>HOME</MenuItem></Link>
-                                <Link to="/travel-blog"><MenuItem>STDIO BLOG</MenuItem></Link>
+                                <Link to="/travel-blog"><MenuItem>TAXI BLOG</MenuItem></Link>
                                 <MenuItem>ABOUT US</MenuItem>
                               </MenuList>
                             </Drawer>

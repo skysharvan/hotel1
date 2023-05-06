@@ -2,27 +2,27 @@ export const block2Data = {
     data:[
         {
             id:1,
-            image:'https://img.freepik.com/premium-vector/studio-text-effect_700033-1160.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/premium-photo/composite-image-man-using-map-app-phone_1134-1854.jpg?size=626&ext=jpg'
         },
         {
             id:2,
-            image:'https://img.freepik.com/free-vector/coming-soon-blue-background-with-studio-focus-light_1017-39307.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-vector/taxi-service-app-concept-template_23-2148477982.jpg?size=626&ext=jpg'
         },
         {
             id:3,
-            image:'https://img.freepik.com/free-vector/photography-studio-with-blue-color_23-2147561296.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/selective-focus-shot-yellow-taxi-sign-traffic-jam_181624-42635.jpg?size=626&ext=jpg'
         },
         {
             id:4,
-            image:'https://img.freepik.com/free-vector/glowing-spotlights-studio-stage_107791-1186.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-vector/taxi-app-interface-concept_23-2148496155.jpg?size=626&ext=jpg'
         },
         {
             id:5,
-            image:'https://img.freepik.com/free-vector/hand-drawn-photography-studio-template_23-2149551741.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/i-think-that-i-get-off-here_329181-15252.jpg?size=626&ext=jpg'
         },
         {
             id:6,
-            image:'https://img.freepik.com/free-vector/flat-design-retro-photo-camera-collectio_23-2147645392.jpg?size=626&ext=jpg'
+            image:'https://img.freepik.com/free-photo/portrait-business-woman-talking-phone-her-way-work-car-business-concept_58466-15780.jpg?size=626&ext=jpg'
         },
     ]
 }
